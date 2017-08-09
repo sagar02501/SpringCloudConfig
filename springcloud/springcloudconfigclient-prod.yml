@@ -1,0 +1,4 @@
+test:
+  message: PROD
+server:
+  port: 5050

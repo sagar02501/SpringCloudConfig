@@ -1,0 +1,4 @@
+test:
+  message: DEFAULT
+server:
+  port: 3344

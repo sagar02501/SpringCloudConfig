@@ -1,4 +1,4 @@
 test:
-  message: DEFAULT
+  message: DEFAULT-FOLDER
 server:
   port: 3344

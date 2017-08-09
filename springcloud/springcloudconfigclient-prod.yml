@@ -1,4 +1,4 @@
 test:
-  message: PROD
+  message: PROD-FOLDER
 server:
   port: 5050

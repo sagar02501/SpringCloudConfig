@@ -1,4 +1,4 @@
 test:
-  message: QA
+  message: QA-FOLDER
 server:
   port: 4444
